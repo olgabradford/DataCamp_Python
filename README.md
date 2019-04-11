@@ -10,3 +10,5 @@ Python notebooks from DataCamp data science tutorials:
 99_Python_Datacamp_03_toolbox1_functions_lambda.ipynb
 Functions, lambda(),map(),filter(),reduce()
 4. 3. Toolbox for data scientist Part 2
+99_Python_Datacamp_04_toolbox2_iterators_generators_chunks
+iterators,enumerate(),zip(),chunks for big data,generators, nested loops,
