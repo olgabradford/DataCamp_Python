@@ -12,3 +12,10 @@ Functions, lambda(),map(),filter(),reduce()
 4. 3. Toolbox for data scientist Part 2
 99_Python_Datacamp_04_toolbox2_iterators_generators_chunks
 iterators,enumerate(),zip(),chunks for big data,generators, nested loops,
+5. Statistical thinking in Python part 1
+99_Python_Datacamp_05_statistical_thinking_part1
+Plotting  a histogram, adjusting number of bins, sns(seaborne),bee swarm plot, boxplot
+computing and plotting ECDF(Empirical cumilative distribution function)
+means and medians,covariance and pearson correlation coefficient, scatter plots
+Np.random and bernoulli trials, binomial distribution, Normal PDFs and CDFs,exponential distribution
+6. Statistical thinking in Python part 2
