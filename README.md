@@ -8,7 +8,7 @@ Python notebooks from DataCamp data science tutorials:v
 3. Toolbox for data scientist Part 1<br>
 99_Python_Datacamp_03_toolbox1_functions_lambda.ipynb<br>
 Functions, lambda(),map(),filter(),reduce()<br>
-4. 3. Toolbox for data scientist Part 2<br>
+4. Toolbox for data scientist Part 2<br>
 99_Python_Datacamp_04_toolbox2_iterators_generators_chunks<br>
 iterators,enumerate(),zip(),chunks for big data,generators, nested loops,<br>
 5. Statistical thinking in Python part 1<br>
