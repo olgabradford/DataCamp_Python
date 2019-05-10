@@ -18,3 +18,4 @@ computing and plotting ECDF(Empirical cumilative distribution function)<br>
 means and medians,covariance and pearson correlation coefficient, scatter plots<br>
 Np.random and bernoulli trials, binomial distribution, Normal PDFs and CDFs,exponential distribution<br>
 6. Statistical thinking in Python part 2<br>
+Exploratory data analysis(EDA) (bee swarm plots), ECDF plots, bootstrap confidence intervals, hypothesis testing, p-values, linear regressions, pearson correlation coefficients.
