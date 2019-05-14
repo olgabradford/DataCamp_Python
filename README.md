@@ -20,17 +20,16 @@ Np.random and bernoulli trials, binomial distribution, Normal PDFs and CDFs,expo
 6. Statistical thinking in Python part 2<br>
 Exploratory data analysis(EDA) (bee swarm plots), ECDF plots, bootstrap confidence intervals, hypothesis testing, p-values, linear regressions, pearson correlation coefficients.
 7. Importing data in Python part 1
-<br>
-Importing entire text files <br>
-Importing text files line by line<br>
-Importing flat files using NumPy <br>
-Working with mixed data types<br>
-Importing flat files using pandas<br>
-Pickled files - serialized <br>
-Excel Spreadsheets<br>
-MATLAB files<br>
-SAS files<br>
-Strata files<br>
+Importing entire text files,
+Importing text files line by line,
+Importing flat files using NumPy,
+Working with mixed data types,
+Importing flat files using pandas,
+Pickled files - serialized,
+Excel Spreadsheets,
+MATLAB files,
+SAS files,
+Strata files,
 HDF5 files<br>
 Relational databases: PostGreSQL, MySQL, SQLite, SQL <br>
 
