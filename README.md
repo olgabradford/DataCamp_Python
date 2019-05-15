@@ -18,25 +18,25 @@ computing and plotting ECDF(Empirical cumilative distribution function)<br>
 means and medians,covariance and pearson correlation coefficient, scatter plots<br>
 Np.random and bernoulli trials, binomial distribution, Normal PDFs and CDFs,exponential distribution<br>
 6. Statistical thinking in Python part 2<br>
+99_Python_Datacamp_06_statistical_thinking_part2.ipynb<br>
 Exploratory data analysis(EDA) (bee swarm plots), ECDF plots, bootstrap confidence intervals, hypothesis testing, p-values, linear regressions, pearson correlation coefficients.
 7. Importing data in Python part 1
-99_Python_Datacamp_07_importing_data_in_Python_part1.ipynb
-Importing entire text files,
-Importing text files line by line,
-Importing flat files using NumPy,
-Working with mixed data types,
-Importing flat files using pandas,
-Pickled files - serialized,
-Excel Spreadsheets,
-MATLAB files,
-SAS files,
-Strata files,
+99_Python_Datacamp_07_importing_data_in_Python_part1.ipynb <br>
+Importing entire text files,<br>
+Importing text files line by line,<br>
+Importing flat files using NumPy,<br>
+Working with mixed data types,<br>
+Importing flat files using pandas,<br>
+Pickled files - serialized,<br>
+Excel Spreadsheets,<br>
+MATLAB files,<br>
+SAS files,<br>
+Strata files,<br>
 HDF5 files<br>
 Relational databases: PostGreSQL, MySQL, SQLite, SQL <br>
 
 8. Importing data in Python part 2<br>
-99_Python_Datacamp_08_importing_data_in_Python_part2.ipynb
-<br>
+99_Python_Datacamp_08_importing_data_in_Python_part2.ipynb<br>
 import and locally save datasets from the web, load datasets into pandas DF, make HTTP requests(GET requests), Scrape web data such as HTML, parse HTML into useful data (BeautifulSoup), use urlllib and requests packages<br>
 loading and exploring JSON<br>
 loading data from twitter and exploring json<br>
