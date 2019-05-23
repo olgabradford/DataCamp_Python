@@ -41,3 +41,10 @@ import and locally save datasets from the web, load datasets into pandas DF, mak
 loading and exploring JSON<br>
 loading data from twitter and exploring json<br>
 9. Manipulating time series data in Python<br>
+99_Python_Datacamp_09_manipulating_time_series_in_python <br>
+indexing and resampling time series, converting to_datetime
+basic time series calculations shift(),diff(),mul(),div()
+frequency resampling to monthly, yearly,upsampling(bfill,ffill),reindex(),upsamping with resample(),
+.add_suffix('_fill'), interpolate(),pd.concat([series_1, series_2), axis=1)
+resample('M').median(), moving average,expanding windows (average up to date),
+cumsum(), expanding().sum(), running return, correlation, heat map of correlation.
