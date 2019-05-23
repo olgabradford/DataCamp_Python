@@ -48,3 +48,5 @@ frequency resampling to monthly, yearly,upsampling(bfill,ffill),reindex(),upsamp
 .add_suffix('_fill'), interpolate(),pd.concat([series_1, series_2), axis=1)
 resample('M').median(), moving average,expanding windows (average up to date),
 cumsum(), expanding().sum(), running return, correlation, heat map of correlation.
+
+10. 99_Python_Datacamp_09_manipulating_time_series_in_python.ipynb <br>
