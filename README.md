@@ -60,3 +60,5 @@ Cleaning data for analysis:
 data types, converting data types, working with numerical data,using regular expressions to clean strings, string parsing with regular expressions, extracting numerical values from strings, pattern matching, using functions to clean data,custom functions to clean data,lambda fnctions, duplicate and missing data, dropping duplicate data, filling missing data, testing with asserts
 Case study:
 exploratory analysis, visualizing data, assembling data, reshaping data, checking data types, mor cleaning and processing
+
+11. 99_Python_Datacamp_11_pandas_foundations.ipynb <br>
