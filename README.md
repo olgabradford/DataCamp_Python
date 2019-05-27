@@ -50,3 +50,13 @@ resample('M').median(), moving average,expanding windows (average up to date),
 cumsum(), expanding().sum(), running return, correlation, heat map of correlation.
 
 10. 99_Python_Datacamp_09_manipulating_time_series_in_python.ipynb <br>
+Exploring data:
+Loading, Exploratory data analysis, summary stats,frequency counts, visual exploratory, single vas in histogram, multiple vars with boxplots, multiple vars with scatter plots
+Tidying data for analysis:
+recognizing tidy data,reshaping data using melt (swapping columns and rows), customizing melted data, pivoting data (opposite of melt),resetting index of DataFrame, pivoting duplicate values,splitting column with .str, .split(), .get()
+Combining data for analysis:
+concatenating data, combining rows of data, combining columns of data, finding and concatenating files, finding file that match a pattern, iterating and concatenating matches, merge data, 1 to 1 merge, many to 1 merge, many to many merge
+Cleaning data for analysis:
+data types, converting data types, working with numerical data,using regular expressions to clean strings, string parsing with regular expressions, extracting numerical values from strings, pattern matching, using functions to clean data,custom functions to clean data,lambda fnctions, duplicate and missing data, dropping duplicate data, filling missing data, testing with asserts
+Case study:
+exploratory analysis, visualizing data, assembling data, reshaping data, checking data types, mor cleaning and processing
