@@ -69,6 +69,4 @@ pandas line plots, scatter plots, box plots, hist,pdf,cdf, statistical explorato
 Time series in pandas:
 indexing pandas time series, reading and slicing times, creating DatetimeIndex, partial string indexing and slicing, reindexing the index, resampling pandas time series, resampling and frequency, separating and resampling, rolling mean,resamle and roll with it, manipulating time series, method chaining and filtering, missing values interpolation, time zones and conversion, visualizaing time series, plotting time series, datetime indexing,plotting data ranges, partial indexing
 
-Case study sunlight in Austin:
-in separate file
-99_Python_Datacamp_11_sunlight_in_austin_casestudy
+12. 99_Python_Datacamp_12_manipulating_DataFrames_withPandas.ipynb
