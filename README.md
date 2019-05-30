@@ -62,3 +62,13 @@ Case study:
 exploratory analysis, visualizing data, assembling data, reshaping data, checking data types, mor cleaning and processing
 
 11. 99_Python_Datacamp_11_pandas_foundations.ipynb <br>
+Data ingestion and inspection:
+import export in various formats
+Exploratory data analysis:
+pandas line plots, scatter plots, box plots, hist,pdf,cdf, statistical exploratory analysis, median vs mean, quantiles, standard deviation, separating populations with boolean indexing, filtering and counting, separate and summarize, separate and plot
+Time series in pandas:
+indexing pandas time series, reading and slicing times, creating DatetimeIndex, partial string indexing and slicing, reindexing the index, resampling pandas time series, resampling and frequency, separating and resampling, rolling mean,resamle and roll with it, manipulating time series, method chaining and filtering, missing values interpolation, time zones and conversion, visualizaing time series, plotting time series, datetime indexing,plotting data ranges, partial indexing
+
+Case study sunlight in Austin:
+in separate file
+99_Python_Datacamp_11_sunlight_in_austin_casestudy
