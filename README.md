@@ -70,3 +70,16 @@ Time series in pandas:
 indexing pandas time series, reading and slicing times, creating DatetimeIndex, partial string indexing and slicing, reindexing the index, resampling pandas time series, resampling and frequency, separating and resampling, rolling mean,resamle and roll with it, manipulating time series, method chaining and filtering, missing values interpolation, time zones and conversion, visualizaing time series, plotting time series, datetime indexing,plotting data ranges, partial indexing
 
 12. 99_Python_Datacamp_12_manipulating_DataFrames_withPandas.ipynb
+### 01 Extracting and transforming data
+indexing dataframes, index ordering, positional and labeled indexing, indexing and column rearrangment, slicing dataframes, slicing rows, slicing columns, subselecting dataframes with lists,
+filtering data frames, thresholding data, filtering columns using other columns, filtering using NaNs, transforming dataframes,using apply() to transform a column, using .map() with dictionary, using vectorized functions
+### 02 advanced indexing
+index objects and label data, index values and names,changing index of a dataframe, changing index name labels, building an index then a dataframe, hierarchical indexing, extracting data with a multiindex, setting and sorting a multiindex, using .loc[] with nonunique indexes, indexing multipe levels of multiindex
+### 03 rearranging and reshaping data
+pivoting DataFrames, pivoting and the index, pivoting a single variable, pivoting all variables, stacking and unstacking DataFrames, restoring data index, melting DataFrames, adding names for readability, going from wide to long, obtaining key-value pairs with melt(), pivot tables,  setting up a pivot table, using other aggregations in pivot tables, using margins in pivot tables
+### 04 grouping data
+categoricals and groupby,grouping multiple columns, grouping by another series,groupby and aggregations, computing multiple aggregates of multiple columns,agregating on index levels/fields, grouping on a function of the index, groupby and transformations,detecting outliers with z-scores, filling missing data(imputations by group),other transformations with .apply(), groupby and filtering, grouping and filtering with .apply, .filter(),.map()
+### 05 putting it all together
+grouping and aggregating, using .value_counts() for ranking, using pivot_table() to count medals by type, understanding column labels, applying .drop_duplicates(), finding possible errors with groupby(), locating suspecious data, using .nunique() to rank distinct sports,reshaping data for visualization, line plot, area plot,
+#### Extracting and transforming data
+extracting, filtering,transforming data from dataframes, advanced indexing with multiple levels, tidying, rearranging, restructuring data, pivoting, melting, stacking, identifying and splitting by groups
