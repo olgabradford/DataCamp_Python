@@ -83,3 +83,26 @@ categoricals and groupby,grouping multiple columns, grouping by another series,g
 grouping and aggregating, using .value_counts() for ranking, using pivot_table() to count medals by type, understanding column labels, applying .drop_duplicates(), finding possible errors with groupby(), locating suspecious data, using .nunique() to rank distinct sports,reshaping data for visualization, line plot, area plot,
 Extracting and transforming data:<br>
 extracting, filtering,transforming data from dataframes, advanced indexing with multiple levels, tidying, rearranging, restructuring data, pivoting, melting, stacking, identifying and splitting by groups
+
+13. Introduction to DataBases in Python, SQLAlchemy
+
+1 <b> Intro to databases </b>, relational model, connecting to database, engines and connection strings, autoloading tables from database, viewing table details, intro to SQL, selecting data from table(raw SQL), selecting data from table with SQLAlchemy
+<br>
+2 <b>Applying Filtering</b>, Ordering and Grouping to Queries
+filtering and targeting data, connecting to PostreSQL DB, filter data selected from table, ordering by single column, descending order, ordering bt multiple columns, counting, summing, grouping,counting distinct data,use pandas and matplotlib to visialize our data, SQLAlchemy ResultsProxy and Pandas DataFrame, From SQLAlchemu results to a Graph
+<br>
+3 <b>ADVANCED SQLAlchemy</b> querries
+calculing values  in query, connecting to MySQL DataBase, calculating difference between two columns, determening percentage, SQL relationships, automatic joins, joins,hierarchical tables, leveraging functions and Group_bys
+<br>
+4 <b>Creating and Manipulating your own database</b>
+creating databases and tables, creating tables with SQLAlchemy, Inserting data to table, inserting a single row with an insert() statement, inserting multiple records at once, Loading CSV into Table,
+Updating data in dataBase, updating individual records, updating multiple records, correlated updates, removing data from database, deleting all records from table, deleting specific records, deleting table completely
+<br>
+5 <b>Putting it all together - Census Case Study</b> <br>
+Setup the engine and MetaData, create the table to the database, populating the database,
+reading the data from csv, load data from list into the table, example querries,
+build a query to determine  the average age by population, determine percentage of population by gender and state, determine the difference by state from the 2000 and 2008 censuses
+In separate file:
+99_Python_Datacamp_13_intro_to_databases_casestudy_census.ipynb
+All other exercises in:
+99_Python_Datacamp_13_intro_to_databases_exercises_sqlalchemy.ipynb
