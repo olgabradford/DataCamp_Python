@@ -122,3 +122,7 @@ df1.append(df2) - stacking vertically
 pd.concat([df1,df2]) stacking horizontaly or vertically, simple inner/outer join on indexes
 df1.join(df2) - inner/outer/left/right/ join on Indexes
 pd.merge([df1,df2]) many joins on multiple columns
+
+
+15. Introduction to Visualization in  Python
+99_Python_Datacamp_15_introduction_to_visualization_in_python
