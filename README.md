@@ -106,3 +106,19 @@ In separate file:
 99_Python_Datacamp_13_intro_to_databases_casestudy_census.ipynb
 All other exercises in:
 99_Python_Datacamp_13_intro_to_databases_exercises_sqlalchemy.ipynb
+
+
+14. Merging DataFrames with Pandas
+99_Python_Datacamp_14_merging_dataframes_with_pandas
+Preparing data
+Reading multiple data files, reindexing dataframes,arithmetics with series and dataframes
+Concatenating data
+Appending with (.append), concat(), .reset_index(), ignore_index,keys and multiindexes,outer and inner joins,
+Merging data
+merge(), merging all columns (merge()), merging on multiple columns, using suffixes, specifying columns to merge, merge left, merge right, merging with inner join (how = 'innner'),merging with left join (how = 'left), using join(), ordered merges, using merge(how='outer'), sorting merge,merge_ordered(fill_method='ffill')
+
+What to use?
+df1.append(df2) - stacking vertically
+pd.concat([df1,df2]) stacking horizontaly or vertically, simple inner/outer join on indexes
+df1.join(df2) - inner/outer/left/right/ join on Indexes
+pd.merge([df1,df2]) many joins on multiple columns
