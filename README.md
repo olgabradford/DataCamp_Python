@@ -126,3 +126,23 @@ pd.merge([df1,df2]) many joins on multiple columns
 
 15. Introduction to Visualization in  Python
 99_Python_Datacamp_15_introduction_to_visualization_in_python
+01 customizing plots
+line plots, histograms,scatter plots,plotting multiple graphs (plt.axes()) plt.subplot()
+limiting plots: plt.xlim(), plt.ylim(), plt.axis()
+legends annotation, annotation arrows (annotate(arrowprops={})), annotation text (annotate())
+working with plot style. plt.style.available  plt.style.use('ggplot')
+
+02 plotting 2D arrays
+meshgrid(), sampling on a grid, visualizing bivariate functions,colormaps,contour plots filled and unfilled,histograms in 1D, hist2d,hexagonal binning (hexbin()), working with images:read image, plot, change intensity, colorbar, rescaling
+
+03 statistical plots with seaborn (import seaborn as sns)
+linear regression plots (sns.lmplot()),grouping factors on same plot with hue='', residual plots (sns.residplot()), 
+bivariate distribution plots: sns.stripplot(), sns.swarmplot(),sns.boxplot,
+sns.violinplot()
+multivariate distributions: sns.jointplot(),sns.pairplot(), covariance plots with heat maps sns.heatmap(covariance)
+
+04 analyzing time series and images
+slicing and plotting time series, selecting and formatting dates,rotation of axis labels,time series with moving windows,
+moving window calculations(averages,medians,standard deviations),histogram equalization in images
+
+16. Interactive data visualizations with bokeh
