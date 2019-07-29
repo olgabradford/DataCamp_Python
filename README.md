@@ -146,3 +146,27 @@ slicing and plotting time series, selecting and formatting dates,rotation of axi
 moving window calculations(averages,medians,standard deviations),histogram equalization in images
 
 16. Interactive data visualizations with bokeh
+99_2Python_Datacamp_16_interactive_data_visualization_with_bokeh
+Extra python files:
+gapminder_slider3.py  adding slider to data
+gapminder_hover.py adding hover on mouse move to display a country name
+gapminder_dropdown.py final version, all of the above + choice of different attributes on axis x and y
+
+https://bokeh.pydata.org/en/latest/docs/user_guide/plotting.html#scatter-markers
+
+01 Basic plotting with bokeh
+basic plots, different data formats Bokeh understands,visual customizations for selecting and mouse hovering, scatter plots, lines, simple maps with lat/long
+
+02 layouts interactions and annotations
+creating rows of plots, creating columns of plotsm nesting rows and columns of plots,
+gridded layouts,tabbed layouts, linking plots together, linked axes,linked brishing, annotations and guides, creating legends, positioning and styling legends, hoover tooltips for exposing details
+
+03 building interactive apps with bokeh
+Bokeh server applications, add a single slider, multiple sliders in one document, connecting sliders to plots,
+adding callbacks to sliders, combining Bokeh models into layouts, widget callbacks, updating plots from dropdown,
+updating data sources from dropdown callbacks, synchronize two dropdowns, buttons, button widgets, button slyles,
+hosting applications for wider audiences
+
+04 putting it all together
+gapminder dataset
+ADD SLIDER for YEARS, ADD HOVER, ADD Dropdown to select on axis which data to display
