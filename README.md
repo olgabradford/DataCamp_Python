@@ -170,3 +170,6 @@ hosting applications for wider audiences
 04 putting it all together
 gapminder dataset
 ADD SLIDER for YEARS, ADD HOVER, ADD Dropdown to select on axis which data to display
+
+
+17. 99_Python_Datacamp_17_supervised-learning-with-scikit-learn
