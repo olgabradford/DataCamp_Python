@@ -173,3 +173,10 @@ ADD SLIDER for YEARS, ADD HOVER, ADD Dropdown to select on axis which data to di
 
 
 17. 99_Python_Datacamp_17_supervised-learning-with-scikit-learn
+01 classification: EDA numerical and visual, k-Nearest neighbors fit, k-nearest neighbors predict, measuring model performance, train/test split + fit/predict/accuracy, overfitting and underfitting
+
+02 regression: fit and predict for regression, train/test split,cross validation, 5 fold cross validation, k-fold CV comparison, regularized regression, Regularization Lasso, Regularization Ridge
+
+03 fine tuning your model:metrics for classification, logistic regression and the ROC curve, building logistic regression model, plotting a ROC curve, precision-recall Curve, area under ROC curve, AUC computation, hyperparameter tuning with GridSearchCV, RandomizedSearchCV, final evaluation
+
+04 preprocessing pipelines: preprocessing data, exploring categorical features, creating dummy variables, regression with categorical features, handling missing data, dropping missing data, imputing missing data in ML Pipepile, centering and scaling pipeline, pipeline for classification, pipeline for regression
