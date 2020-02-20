@@ -192,4 +192,15 @@ visualizing PCA transformation, correlated data in nature,decorrelating the grai
 non-negative matrix factorization(NMF), non-negative data, NMF applied to Wikipedia articles, NMF reconstructs samples, NMF learn interpretable parts, NMF learns topics of documents, Explore the LED digits dataset, NMF learns the parts of images, PCA doesnt learn parts, Which articles are similar to Christiano Ronalndo, Recomended musical artists part 1, part 2, final thoughts
 
 # 19 SQL in Pyton, 2 courses Intro to SQL, Joining data in SQL
+01 selecting columns<br>
+02 filtering rows (WHERE, AND, OR, BETWEEN, WHERE IN, IS NULL (for missing data), IS NOT NULL, LIKE (for patterns), NOT LIKE)<br>
+03 aggregate functions: SUM, AVG, MIN, MAX<br>
+04 sorting grouping and joins<br> ORDER BY DESC, GROUP BY, HAVING (instead if WHERE with aggregation), LIMIT 5
+
+01 introduction to joins:
+INNER JOIN, aliasing AS (of tables), 2 JOIN ON AND, USING(same_variable_from 2_tables), self joins,
+02 outer joins and cross joins: LEFT, RIGHT JOIN,FULL JOIN, CROSS JOIN,
+03 set theory clauses
+state of the UNION, UNION ALL, INTERSECTional data science, EXCEPTional, Semi-Joins and Anti-joins, 
+04 subqueries: Inside WHERE and SELECT clauses, SELECT(AVG), Subquery inside SELECT clause, Subquert inside FROM clause
 
