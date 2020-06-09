@@ -204,21 +204,27 @@ INNER JOIN, aliasing AS (of tables), 2 JOIN ON AND, USING(same_variable_from 2_t
 state of the UNION, UNION ALL, INTERSECTional data science, EXCEPTional, Semi-Joins and Anti-joins, 
 04 subqueries: Inside WHERE and SELECT clauses, SELECT(AVG), Subquery inside SELECT clause, Subquert inside FROM clause
 
-# 20
+# 20 Introduction to Time series analysis in Python(datacamp) (check)
 
 
-# 21
+# 21 Deep Learning in Python(datacamp)  (not started)
 
 
-# 22
-# 23
+# 22 Bayesian statistics in Python  (what is it?)
+# 23 Fundamentals of Bayesian statis (what is it?)
 
 
-# 24 Bayesian Linear Regression in Python (not datacamp course)
-
-# 25 Markov Chain Monte Carlo (MCMC) in Python practical (sleep study using Garmin data (not datacamp))
+# 24 Bayesian Linear Regression in Python (not datacamp course) 
+99_Python_24_Bayesian_Linear_Regression.ipynb  (not finished yet)
+# 25 Markov Chain Monte Carlo (MCMC) in Python practical (sleep study using Garmin data (not datacamp)) (uploaded)
    25 chance of beeing asleep at certain times
+   99_Python_25_Markov_Chain_Monte_Carlo_MCMC.ipynb
    25a chance of beeing awake at certain times
+   99_Python_25a_Markov_Chain_Monte_Carlo_MCMC_awake_model.ipynb
+
+
+99_R_Datacamp_1_fundamentals_of_Bayesian_data_analysis.Rmd  - finalize and upload
+99_R_Datacamp_2_bayesian_regression_modeling_with_rstanarm.Rmd  -finalize and upload
 
  
 
