@@ -204,14 +204,22 @@ INNER JOIN, aliasing AS (of tables), 2 JOIN ON AND, USING(same_variable_from 2_t
 state of the UNION, UNION ALL, INTERSECTional data science, EXCEPTional, Semi-Joins and Anti-joins, 
 04 subqueries: Inside WHERE and SELECT clauses, SELECT(AVG), Subquery inside SELECT clause, Subquert inside FROM clause
 
-# 20 Introduction to Time series analysis in Python(datacamp) (check)
-
+# 20 Introduction to Time series analysis in Python(datacamp)
+99_Python_Datacamp_20_introduction_to_time_series_analysis_in_python.ipynb
+01 Correlation:
+merging time series with different dates, correlation of two time series, correlation of stocks and bonds, simple linear regression, looking at regression's r-squared, match correlation to regression output, autocorrelation, a popular strategy using autocorrelation, are interest rates autocorrelated?
+02 Some simple time series
+autocorrelation function, taxing exercise, are we confident this stock is mean reverting, white noise, cant forecast white noise, random walk, generate a random walk, are stock prices a random walk, what about stock returns? stationarity, is it stationary? seasonal adjustment during tax season
+03 autoregressinve AR models
+describe AR model, simulate AR time series, compare ACF for several AT time series, match AR model with ACF, Estimating and Forecasting AR Model, Forecast Interest rates, compare AR model and Random walk, Choosing the right model, estimate order of model (PACF) and (Information criterea)
+04 moving average MA and ARMA models
+describe model, simulate MA time series, Compute the ACF for several MA Time series, match ACF and MA model, Estimation and Forecasting an MA model, Estimating an MA model, Forecasting with MA model,ARMA and ARIMA models, High frequency stock prices, More data cleaning (missing data), applying an MA model, equivalence of AR(1) and MA(infinity)
+05 putting it all together
+cointegration models, are bitcoin and ethereum cointegreated, case study: climate change, is temperature a random walk (with drift), getting warmed up (look at autocorrelations), which ARMA model is Best.
 
 # 21 Deep Learning in Python(datacamp)  (not started)
+# 22 Bayesian statistics in Python  (NOT DATACAMP, not FINISHED)
 
-
-# 22 Bayesian statistics in Python  (what is it?)
-# 23 Fundamentals of Bayesian statis (what is it?)
 
 
 # 24 Bayesian Linear Regression in Python (not datacamp course) 
