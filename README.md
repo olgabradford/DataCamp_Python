@@ -204,3 +204,21 @@ INNER JOIN, aliasing AS (of tables), 2 JOIN ON AND, USING(same_variable_from 2_t
 state of the UNION, UNION ALL, INTERSECTional data science, EXCEPTional, Semi-Joins and Anti-joins, 
 04 subqueries: Inside WHERE and SELECT clauses, SELECT(AVG), Subquery inside SELECT clause, Subquert inside FROM clause
 
+# 20
+
+
+# 21
+
+
+# 22
+# 23
+
+
+# 24 Bayesian Linear Regression in Python (not datacamp course)
+
+# 25 Markov Chain Monte Carlo (MCMC) in Python practical (sleep study using Garmin data (not datacamp))
+   25 chance of beeing asleep at certain times
+   25a chance of beeing awake at certain times
+
+ 
+
