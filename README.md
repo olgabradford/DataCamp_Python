@@ -235,4 +235,18 @@ cointegration models, are bitcoin and ethereum cointegreated, case study: climat
 99_R_Datacamp_2_bayesian_regression_modeling_with_rstanarm.Rmd  -finalize and upload
 
  
+# 29 99_Python_Datacamp_29_Introduction_to_TensorFlow_In_Python
 
+##### 01 - Introduction to Tensor Flow
+Before you can build advanced models in TensorFlow 2.0, you will first need to understand the basics. In this chapter, you’ll learn how to define constants and variables, perform tensor addition and multiplication, and compute derivatives. Knowledge of linear algebra will be helpful, but not necessary. <br>
+constants and variables, defining data as constants, defining variables, basic operations, performing element-wise multiplication, making predictions with matrix multiplication,summing over tensor dimenstions
+##### 02 - Linear Models
+In this chapter, you will learn how to build, solve, and make predictions with models in TensorFlow 2.0. You will focus on a simple class of models – the linear regression model – and will try to predict housing prices. By the end of the chapter, you will know how to load and manipulate data, construct loss functions, perform minimization, make predictions, and reduce resource use with batch training.<br>
+input data, load data using pandas, setting the data type, loss function, loss function in TensorFlow,modifying the loss function, linear regression, set up linear regression, train a linear model, multiple linear regression, batch training, preparing to batch train, training a linear model in batches
+###### 03 -Neural Nerworks
+The previous chapters taught you how to build models in TensorFlow 2.0. In this chapter, you will apply those same tools to build, train, and make predictions with neural networks. You will learn how to define dense layers, apply activation functions, select an optimizer, and apply regularization to reduce overfitting. You will take advantage of TensorFlow's flexibility by using both low-level linear algebra and high-level Keras API operations to define and train models.
+Dense layers, the linear algebra of dense layers, the low-level approach with multiple examples, 
+using the dense layer operation, activation functions, binary classification problems, multiclass classification problems, optimizers, the dangers of local minima, training a network in TensorFlow, Defining the model and loss function, Training neural networks with TensorFlow
+###### 04 - High Level APIs
+In the final chapter, you'll use high-level APIs in TensorFlow 2.0 to train a sign language letter classifier. You will use both the sequential and functional Keras APIs to train, validate, make predictions with, and evaluate models. You will also learn how to use the Estimators API to streamline the model definition and training process, and to avoid errors.
+Defining a multiple input model, training and validation with Keras, Training with Keras, Metrics and validation with Keras, Overfitting models, Training models with the Estimators API, preparing to train with Estimators, Defining Estimators
