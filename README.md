@@ -217,7 +217,20 @@ describe model, simulate MA time series, Compute the ACF for several MA Time ser
 05 putting it all together
 cointegration models, are bitcoin and ethereum cointegreated, case study: climate change, is temperature a random walk (with drift), getting warmed up (look at autocorrelations), which ARMA model is Best.
 
-# 21 Deep Learning in Python(datacamp)  (not started)
+# 21 Deep Learning in Python(datacamp)  99_Python_Datacamp_21_Deep_Learning_In_Python
+01-basics-of-deep-learning-and-neural networks
+comparing neural network models to classical regression models, forward propagation, activation functions, rectified linear activation, applyging the network to many observations/rows, deeper networks, forward propagation in a deeper network, multi-layer neural networks, representations are learned, levels of representation
+
+02-optimizing-a-neural-network-with-backward-propagation
+the need for optimization, calculating model errors, understading how weights change model accuracy, coding how weights changes affect model accuracy, scaling up to multiple data points, gradient descent, improving model weights, making multuple updates to weights, backpropagation, the relationship between forward and backward propagation, thinking about backward propagation, backpropagation in practice, a round of back propagation,
+
+03-building-deep-learning-models-with-keras
+creating keras model, specifying model, compiling and fitting a model, classification models, understanding your classification data, last steps in classification models, using models, making predictions
+
+04-fine-tuning-keras-models
+understanding model optimization, diagnosing optimization models, changing optimization parameters, model_validation, evaluating model accuracy on validation datasets, early stopping: optimizing the optimization, experimenting with wider networks, adding layers to a network, thinking about model capacity, experimenting with model structures, stepping up to images, building your own digit recognition model
+
+
 # 22 Bayesian statistics in Python  (NOT DATACAMP, not FINISHED)
 
 
